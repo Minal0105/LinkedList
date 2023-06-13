@@ -1,7 +1,6 @@
 package com.Bridgelabz;
 
-public class LinkedList<T>
-{
+public class LinkedList<T> {
     public Node head;
     int count = 0;
     public  void add(T num) {
